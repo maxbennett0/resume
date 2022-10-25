@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(213, 213, 213);
+  margin: 0;
+}
+
+
+header{
+  min-height: 15em;
+}
+
+.title{
+  margin: 0;
+  padding: 1.5em;
+}
+
+.profile-pic{
+  height: 200px;
+}
+
+.my-name{
+  height: 1em;
+  align-items: center;
+}
+
+.bg-teal{
+  background-color: teal;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.flex-end{
+  justify-content: flex-end;
+}
+
+.card{
+  padding: 2em;
+  border: 1px solid gray;
+}
+
+.p-1{
+  padding: 1em;
+}
+
+.p-2{
+  padding: 1.5em;
+}
+
+p{
+  padding: 75px;
+  margin: 40px;
+  border: 5px double black;
+}
+.align-items-center{
+  align-items: center;
+}
